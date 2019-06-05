@@ -1,0 +1,8 @@
+prefix=/home/mattm1005/catkin_ws/src/Robotics_Project/devel
+
+Name: ee245
+Description: Description of ee245
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/mattm1005/catkin_ws/src/Robotics_Project/devel/lib 
+Requires: 
