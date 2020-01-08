@@ -1,0 +1,6 @@
+20; 20; 20.             # This is the environment X - Y - Z boundaries,  in this case a cube of 20m side.
+			            # Line intentionally left blank
+2; 2;  0: 10; 10; 10.	# Obstacle 1: Its origin is at x=2,  y=2,  z=0 wrt to world frame.  All of each sides are 10m.
+8; 0; 2:  1; 4; 1.      # Obstacle 2: Its origin is at x=80,  y=0,  z=20 wrt to world frame.  This is a flat obstacle on the y-z plane.
+			            # Line intentionally left blank
+EOF			            # End of File

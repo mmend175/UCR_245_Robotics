@@ -1,0 +1,50 @@
+sample.txt
+***********************
+path 1/ 
+C_space Time: 0.9056
+Algorithm Time: 0.0017
+Program Time: 2.17
+path 2: 
+C_space Time: 0.8599
+Algorithm Time: 0.0017
+Program Time: 2.08
+path3:
+C_space Time: 0.6243
+Algorithm Time: 0.0023
+Program Time: 1.75
+path4:
+C_space Time: 0.8165
+Algorithm Time: 0.0013
+Program Time: 2.25
+
+Avg. Total C_space Time = ~0.80157
+Avg. Algorithm Time: ~0.00175
+Avg. Program Time: ~2.25
+
+
+sample1.txt
+****************************
+path1:
+C_space Time: 0.7382
+Algorithm Time: 0.0019
+Program Time: 1.65
+path2:
+C_space Time: 0.4433
+Algorithm Time: 0.0020
+Program Time: 1.71
+path3:
+C_space Time: 0.9162
+Algorithm Time: 0.0020
+Program Time: 2.93
+path4:
+C_space Time: 0.7011
+Algorithm Time: 0.0022
+Program Time: 2.63
+
+Avg. Total C_space Time = ~0.69970
+Avg. Algorithm Time: ~0.002023
+Avg. Program Time: ~2.23
+
+
+
+

@@ -1,0 +1,7 @@
+20; 20; 20.             # This is the environment X - Y - Z boundaries,  in this case a cube of 20m side.
+			            # Line intentionally left blank
+0; 5;  0: 8; 1; 16.	    # Obstacle 1
+5; 0;  0: 1; 8; 16.     # Obstacle 2
+4; 4;  15: 5; 8; 5.	    # Obstacle 3
+			            # Line intentionally left blank
+EOF			            # End of File
