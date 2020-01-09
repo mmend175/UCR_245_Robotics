@@ -38,10 +38,7 @@ than regular flight control. This will be addressed in following project phases.
 ******************************************************
 
 # PHASE TWO Motion Planning Using Varies Algorithms 
-**************************************************************************************************
-
-Intro
-**************************************************************************************************
+***************************************************************************************************
 
 We implemented two motion planners. One is A* and the other is Rapidly Exploring Random Trees *(RTT-Star).
 We felt two algorithms is better than one. Thus, we will let the user decide on which algorithm to choose.
