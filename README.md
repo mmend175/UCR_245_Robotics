@@ -134,13 +134,6 @@ Using RRT*
 > sample2.txt: Total Program: ~2.23seconds    C_Space: ~0.69970 seconds    Algorithm Time: ~0.002023 seconds
 
 **************************************************************************************************
-
-Relevant Material
-**************************************************************************************************
-> EE245 Course Slides
-> Our 3D A* was inspired by the 2D A* implementation found here:
-        https://medium.com/@nicholas.w.swift/easy-a-star-pathfinding-7e6689c7f7b2
-**************************************************************************************************
 Notes
 **************************************************************************************************
 The take-off will take the map size into a count take off vertical 1/5 the size of the map size z-axis.
