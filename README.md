@@ -1,6 +1,6 @@
 # UCR_245_Robotics
 
-# Phase_One: Obstacle Avoidance Simulator Of Quadrotor's Path 
+# Phase1: Obstacle Avoidance Simulator Of Quadrotor's Path 
 ******************************************************
 
 Run Instructions
@@ -37,7 +37,7 @@ than regular flight control. This will be addressed in following project phases.
 - Our thrust is assumed to be constant.
 ******************************************************
 
-# PHASE TWO Motion Planning Using Varies Algorithms 
+# Phase1 Motion Planning Using Varies Algorithms
 ***************************************************************************************************
 
 We implemented two motion planners. One is A* and the other is Rapidly Exploring Random Trees *(RTT-Star).
