@@ -133,11 +133,7 @@ Using RRT*
 > sample.txt:  Total Program: ~2.25 seconds    C_Space: ~0.80157 seconds    Algorithm Time: ~0.00175 seconds
 > sample2.txt: Total Program: ~2.23seconds    C_Space: ~0.69970 seconds    Algorithm Time: ~0.002023 seconds
 
-**************************************************************************************************
-Notes
-**************************************************************************************************
-The take-off will take the map size into a count take off vertical 1/5 the size of the map size z-axis.
-We also include 4 png images to the zip file label sampleX.png.(i.e sample1.png) for the sample.txt output.
+
 
 
 
